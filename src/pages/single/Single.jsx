@@ -10,7 +10,6 @@ export default function Single() {
       <Sidebar />
       <div className="singleContainer">
         <Navbar />
-        single
         <div className="top">
           <div className="left">
             <div className="editButton">Edit</div>
